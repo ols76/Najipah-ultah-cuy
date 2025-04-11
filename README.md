@@ -13,10 +13,10 @@
     body, html {
       width: 100%;
       height: 100%;
-      background-color: #000;
+      background-color: #E4F2F1;
       overflow: hidden;
       font-family: 'Arial', sans-serif;
-      color: white;
+      color: black;
     }
     .slideshow-container {
       width: 100vw;
@@ -81,21 +81,23 @@
 
   <script>
     const files = [
+      "GAThgnEbIAAHeCa.jpeg"
       "1732171a394fd22a3d5afb3b71535c39.jpg",
-      "2b435959bd75ae82b1c0239b22b4c068.mp4",
-      "400a2337594af3a582178b8dbb67d0fb.jpg",
-      "4089e292ffeb301eb8b3904709d4e819_720w.mp4",
-      "60e8e78980ec4621f06b9cb0e0291a73.jpg",
-      "7b8921e2e0e5d6999112d85e2a9f5f29.mp4",
       "9236718622fdf8ea7c24794b6fd79fc1.jpg",
       "9c49bce0509c1c234de4076f23d0adf7.mp4",
-      "GAThgnEbIAAHeCa.jpeg",
-      "YouTube - YouTube (720p, h264).mp4",
+      "f5f644cce8d930568ab45257ffad9ae1.mp4",
+      "e647586ecd982b7947f2e1fd2be01a5f.jpg",
+      "d9eb1cb6a5fe34dbb85ae400bb86b0c4.jpg",
+      "ddc809c4c6ed99767dad26df0e0f26ab.jpg",
       "c1619fd4f3df0f3c5022fa43cb088734.jpg",
       "d2baf82837f3e7a7f65aae2789f7670b.jpg",
+      "2b435959bd75ae82b1c0239b22b4c068.mp4",
+      "7b8921e2e0e5d6999112d85e2a9f5f29.mp4",
+      "4089e292ffeb301eb8b3904709d4e819_720w.mp4",
       "d97141907cf3deb79092050f7a1bdca8.mp4",
-      "d9eb1cb6a5fe34dbb85ae400bb86b0c4.jpg",
-      "ddc809c4c6ed99767dad26df0e0f26ab.jpg"
+      "60e8e78980ec4621f06b9cb0e0291a73.jpg",
+      "400a2337594af3a582178b8dbb67d0fb.jpg",
+      "YouTube - YouTube (720p, h264).mp4",
     ];
 
     const slideshow = document.getElementById('slideshow');

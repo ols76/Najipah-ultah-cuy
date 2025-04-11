@@ -1,17 +1,55 @@
-Najipah-ultah-cuy/
-├── index.html
-├── https://drive.google.com/file/d/1Pa890Tj5cZ2v0qyMsfwp88KI0AuNsGyS/view?usp=drivesdk
-├── https://drive.google.com/file/d/1PGBZCB-D0JsnWcXwAsqu8IzdkzvrKME3/view?usp=drivesdk
-https://drive.google.com/file/d/1OSq8PdC8fd2H18w9VjTdekSEaQnf6jpl/view?usp=drivesdk
-https://drive.google.com/file/d/1P4kCSZ3mUzrw3COzI4lJAkHU98gn-h2r/view?usp=drivesdk
-https://drive.google.com/file/d/1ODbOcZfEaT8eegdqie6o2ueaBt8Opw26/view?usp=drivesdk
-https://drive.google.com/file/d/1OBLFRfsMu9e97-nMwasD2PB3ScT8CMKa/view?usp=drivesdk
-https://drive.google.com/file/d/1OLPo3ZjaPgiA_32b57Dsp46rEt66vbTw/view?usp=drivesdk
-https://drive.google.com/file/d/1OR4-oIVXB9_y8DY9-OtaWonTpCKgoFF_/view?usp=drivesdk
-https://drive.google.com/file/d/1OypQCK3WQk8ijdzj9wDKbScnVT7qwIDG/view?usp=drivesdk
-https://drive.google.com/file/d/1Oji5v3aYHaJyE6-hBCT6V0s2k6YJStv0/view?usp=drivesdk
-https://drive.google.com/file/d/1P48vYOxogsGuVt-ZQRInvgVvRbPILB5n/view?usp=drivesdk
-https://drive.google.com/file/d/1OWcbBx_Sb_U3bIC4l0uSgtEFjlLfJF_f/view?usp=drivesdk
-https://drive.google.com/file/d/1PDaGBxEFedAeNo8cPr6zUT1AE4gd6hPk/view?usp=drivesdk
-https://drive.google.com/file/d/1PiVD8HPOstsuBz_C2YJeip_-9AsNj51g/view?usp=drivesdk
-<p style="margin-top: 40px;">happy level up najipah!</p>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Najipah Ultah Cuy!</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive;
+      background-color: #fff7f0;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+    img, video {
+      width: 90%;
+      max-width: 500px;
+      margin: 20px 0;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #ff69b4;
+    }
+    p {
+      font-size: 1.2em;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Happy Birthday Najipahhh!!</h1>
+
+  <img src="168107.jpg" alt="meme 1">
+  <img src="168108.jpg" alt="meme 2">
+  <img src="168109.jpg" alt="meme 3">
+  <img src="168110.jpg" alt="meme 4">
+  <img src="168111.jpg" alt="meme 5">
+  <img src="168112.jpg" alt="meme 6">
+  <img src="168113.jpg" alt="meme 7">
+  <img src="168114.jpg" alt="meme 8">
+
+  <video src="VID_20240412_100720.mp4" controls></video>
+  <video src="VID_20240412_100733.mp4" controls></video>
+  <video src="VID_20240412_100737.mp4" controls></video>
+  <video src="VID_20240412_100739.mp4" controls></video>
+  <video src="VID_20240412_100745.mp4" controls></video>
+  <video src="VID_20240412_100748.mp4" controls></video>
+  <video src="VID_20240412_100755.mp4" controls></video>
+  <video src="VID_20240412_100801.mp4" controls></video>
+
+  <p>happy level up najipah!</p>
+</body>
+</html>

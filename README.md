@@ -5,8 +5,8 @@
   <title>Happy Birthday Najipah!</title>
   <style>
     body {
-      background-color: #111;
-      color: white;
+      background-color: #E4F2F1;
+      color: black;
       text-align: center;
       font-family: sans-serif;
       margin: 0;
